@@ -77,13 +77,52 @@ As an important aspect of the security of survival is to expand into space, this
 and oversees spacefare programs and guarantees an efficient and effective collaboration between nations. Physics or mathematics in Studium Primum is required.
 
 
+
+
+
+
+
+
+
+
+
 ## Legislative
+
+There wil be three chaimbers within the union
+An item can be proposed to the parliment by an member of the union, automatically it should go into one of three categories.
+
+- Minor Congress (Parliment & Council)
+- Congress (Parliment, Council, & Lobbyists)
+- Major Congress (Parliment, Council, Lobbyists, and Pecunium)
+
 
 ### Parliament
 The Parliament will be composed of 8 members at the maximum chosen by election via the Subject Election Principal.
+The Parliment is the main Legislative body of the Union, and forms in opposition of the executive.
+
+
+### Council
+The Council will be composed of 6 members at maximum chosen by representative democracy
+
 
 ### The Technocracy Lobby 
-The Technocracy Lobby may only consist of 6 Technocrats. They have no voting power when it comes elections.
+The Technocracy Lobby may only consist of 4 Technocrats. They have no voting power when it comes elections.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Judicial
 
