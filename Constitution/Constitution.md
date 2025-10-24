@@ -11,10 +11,46 @@ We are working with a Trigonocracy Model running at the Municipal level with Sup
 # Rules
 1.) Political Parties (internal or external) are banned, political identification such as identifying as a Social Democrat or Technocrat are allowed.
 2.) The following ideologies and any ideologies related to these ideologies are banned: Fascism and Totalitarianism 
+
+
+
+
+
 # Definitions 
 
 ## Subject Election Principal
 "Vote on Subjects not people"
+## Single Transferable Vote (STV)
+A form of ranked elections
+Each member ranks all candiate from first to last.
+Each candiate with or above the panel size divided by the number of seats is automatically elected.
+The remaining surplus of votes is reallocated to the rest of the candiates based on each voters next rank preference.
+The candiate with the lowest votes will have their votes reallocated to the rest of the candiates based on each voters next rank preference.
+
+If the remaining amount of candiates is equal to the panel size then the remaining candiates are elected to the panel.
+If the panel is full then vote reallocation is ended.
+```mermaid
+flowchart TD
+    subgraph "Single Transferable Vote Process"
+        Start["Initial Vote Count"] --> Quota["Quota Check:<br/>50% + 1"]
+        
+        Quota -->|"Meets Quota"| Winner["Winner Elected"]
+        Quota -->|"Below Quota"| Surplus["Surplus Votes<br/>Transfer"]
+        
+        Surplus -->|"Excess Votes"| Transfer["Transfer to<br/>Next Preference"]
+        Surplus -->|"No Excess"| Eliminate["Eliminate Lowest<br/>Candidate"]
+        
+        Transfer --> Quota
+        Eliminate --> Quota
+    end
+    
+    style Start fill:#e3f2fd,stroke:#1565c0,color:#000000
+    style Quota fill:#bbdefb,stroke:#1565c0,color:#000000
+    style Winner fill:#90caf9,stroke:#1565c0,color:#000000
+    style Surplus fill:#90caf9,stroke:#1565c0,color:#000000
+    style Transfer fill:#81d4fa,stroke:#1565c0,color:#000000
+    style Eliminate fill:#81d4fa,stroke:#1565c0,color:#000000
+```
 ## Technocracy
 "Rule of the Engineer"
 Technocracy is best defined as applying the Scientific Method to solving social problems OR running government as a engineering or technical problem. 
@@ -23,6 +59,12 @@ A person who applies technocracy in a governing structure.
 
 ## Union
 The Trisophic Union
+
+
+
+
+
+
 
 
 # Branches
@@ -89,12 +131,25 @@ and oversees spacefare programs and guarantees an efficient and effective collab
 ## Legislative
 
 There wil be three chaimbers within the union
-An item can be proposed to the parliment by an member of the union, automatically it should go into one of three categories.
+An item can be proposed to the parliment by an member of the union, automatically it should go into one of three lists. 
 
 - Minor Congress (Parliment & Council)
+    - Small item, requring minimal attention
 - Congress (Parliment, Council, & Lobbyists)
-- Major Congress (Parliment, Council, Lobbyists, and Pecunium)
+    - Default list every item will go to.
+- Major Congress (Parliment, Council, Lobbyists, and Pecunium).
+    - Deals with budget, or concerns the entire union
 
+Each person with a position in the Legislative is allowed to view each item at any time. 
+
+Each person with voting power can approve or reject an item at anytime, their vote can be changed later.
+- If an item recives above a 2/3rds or 66% approval, it is passed.
+- If an item recives bellow a 33% approval, it is discarded.
+
+
+- Any item stuck in between or is not given enough votes will have their votes reset
+- Any item that is in anylist for more than a month is automatically discarded.
+- If an item is changed at any time, the votes are revoked unless it is changed to be a previous state, in that case the votes during that state are restored.
 
 ### Parliament
 The Parliament will be composed of 8 members at the maximum chosen by election via the Subject Election Principal.
@@ -102,7 +157,7 @@ The Parliment is the main Legislative body of the Union, and forms in opposition
 
 
 ### Council
-The Council will be composed of 6 members at maximum chosen by representative democracy
+The Council will be composed of 6 members at maximum and chosen by Single Transferable vote
 
 
 ### The Technocracy Lobby 
