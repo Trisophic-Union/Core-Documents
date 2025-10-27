@@ -72,11 +72,17 @@ The Trisophic Union
 ## Executive
 
 
-### Offices
+
+
+
+### Structure
 #### Presidential Office
-This office acts as a leading entity within the executive. Diplomacy in the specification year
-of the Studium Res is required. How the head of the office is called – chancellor, president, or else – is left to
-be adapted according to the cultural circumstances.
+There will be two seats in the presidential office
+- Executive
+- Vice Executive
+Executive and Vice executive have the same amount of power. 
+
+TEMPORARY MEASURE: Presidential office is absolute, anything can be done to uphold this constitution,
 #### Foreign Affairs Office
 This office takes care of the foreign diplomacy of the state towards other states, but also
 to the upper levels of federalism (supranational and global level). Diplomacy in Studium Primum is required.
@@ -95,7 +101,11 @@ overseeing state power described in subsection 7.4. Economy in Studium Primum is
 #### Judicial Office:
 This office regulates the executive’s relationship with the jurisdiction. Law in Studium Primum
 is required.
+
 #### Education and Science Office 
+
+Respondsible for development and testing of union tools.
+
 This office oversees the education politics and regulates the relationships with
 universities, which, in turn, decide upon the educational basis for the scientific and political elite in the country.
 MINT in Studium Primum is required.
@@ -112,8 +122,8 @@ family affairs and youth. Social Sciences in Studium Primum is required.
 This office focuses on the relationship between humanity and its environment, ensuring
 that the political endeavor does not neglect nature. MINT in Studium Primum is required.
 #### Cooperation Office
-This office does only exist on the higher levels (supranational, global). Its responsibility is
-to maintain peace and respectful interaction between nations. Diplomacy in Stidum Primum is required.
+Cooperation office can include people from outside the union we are collaborating with. This is the only office allowed to communicate outside the union.
+
 #### Spacefare Office
 As an important aspect of the security of survival is to expand into space, this office regulates
 and oversees spacefare programs and guarantees an efficient and effective collaboration between nations. Physics or mathematics in Studium Primum is required.
@@ -151,16 +161,19 @@ Each person with voting power can approve or reject an item at anytime, their vo
 - Any item that is in anylist for more than a month is automatically discarded.
 - If an item is changed at any time, the votes are revoked unless it is changed to be a previous state, in that case the votes during that state are restored.
 
-### Parliament
+
+### Structure
+
+#### Parliament
 The Parliament will be composed of 8 members at the maximum chosen by election via the Subject Election Principal.
 The Parliment is the main Legislative body of the Union, and forms in opposition of the executive.
 
 
-### Council
+#### Council
 The Council will be composed of 6 members at maximum and chosen by Single Transferable vote
 
 
-### The Technocracy Lobby 
+#### The Technocracy Lobby 
 The Technocracy Lobby may only consist of 4 Technocrats. They have no voting power when it comes elections.
 
 
@@ -181,26 +194,59 @@ The Technocracy Lobby may only consist of 4 Technocrats. They have no voting pow
 
 ## Judicial
 
-### Judicial Board
-### Judaical Council
-### Custodium
+### Structure
+
+#### Judicial Board
+#### Judaical Council
+#### Custodium
 Part of the custodium will consist of Project Algocracy.
+
+
+
+
+
+
 
 
 ## Mediacative
 
-### Mediatorium
+### Rules
+
+
+### Structure
+#### Mediatorium
 Chosen by election via the Subject Election Principal, it can't consist of more than 5 people. 
-### Media Delegation
+#### Media Delegation
 Consists of members that control any portion of media (Union or non-Union controlled)
+
+
+
+
+
+
+
+
+
 
 
 ## Monocative
 
-### Pecunium
+
+### Structure
+#### Pecunium
 Chosen by election via the Subject Election Principal, it can't consist of more than 5 people.
-### Aerarium
+#### Aerarium
 The Aerarium is composed of people who control banks or financial institutions (Union or Non-Union Controlled)
+
+
+
+
+
+
+
+
+
+
 
 # Signatures
 
