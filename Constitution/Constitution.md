@@ -1,13 +1,40 @@
 # The Trisophic Union Constitution
 
- Third Constitution ""
+ Third Constitution "Well what do we name it?"
  
- ---
+---
+
+
+
 
 # Notes
 This constitution only applies within the Trisophic Union.
 We are working with a Trigonocracy Model running at the Municipal level with Supranational powers outlined in the document.
+
+
 # Rights
+
+## UN - Universal Declaration of Human Rights
+All text from the Universal Declaration of Human Rights Shall be valid here.
+Text:
+https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
+## Right to Knowledge
+Section 1: 
+Every person has the right to access, preserve, and share human knowledge for educational, research, and civic purposes without economic barrier.
+
+Section 2:
+Copyright protections shall not exceed 28 years from first publication.
+
+Section 3:
+Libraries, educational institutions, and civic organizations may preserve and provide access to published works for non-commercial educational purposes 
+without restriction after initial copyright term expires.
+
+Section 4:
+No person shall be criminally prosecuted or civilly liable for preserving or sharing knowledge in a format designed for preservation, accessibility, and research, provided no commercial sale or rental occurs.
+
+Section 5:
+Congress shall have power to enforce this article by appropriate legislation.
+
 # Rules
 1.) Political Parties (internal or external) are banned, political identification such as identifying as a Social Democrat or Technocrat are allowed.
 2.) The following ideologies and any ideologies related to these ideologies are banned: Fascism and Totalitarianism 
@@ -19,7 +46,25 @@ We are working with a Trigonocracy Model running at the Municipal level with Sup
 # Definitions 
 
 ## Subject Election Principal
-"Vote on Subjects not people"
+Elections where voters choose policy statements (subjects) rather than individual candidates; candidates receive support based on how well their proposed statements align with voters' choices.
+
+```mermaid
+flowchart TD
+    V[Voters vote on statements]
+    A[Aggregate & deduplicate statements]
+    C[Optional control questions to verify attention]
+    E[Compute democratic disposition (p1..pm)]
+    W[Apply candidate-statement weights wj,i]
+    VP[Compute vote power v(Xi) and percentages p(Xi)]
+    R[Rank candidates & publish results]
+
+    V --> A --> C --> E --> W --> VP --> R
+
+    style V fill:#e3f2fd,stroke:#1565c0,color:#000
+    style E fill:#bbdefb,stroke:#1565c0,color:#000
+    style VP fill:#90caf9,stroke:#1565c0,color:#000
+    style R fill:#c8e6c9,stroke:#2e7d32,color:#000
+```
 ## Single Transferable Vote (STV)
 A form of ranked elections
 Each member ranks all candiate from first to last.
