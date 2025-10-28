@@ -1,32 +1,32 @@
 # The Trisophic Union Constitution
 
- Third Constitution "Well what do we name it?"
- 
+Third Constitution "Well what do we name it?"
+
 ---
 
-
-
-
 # Notes
+
 This constitution only applies within the Trisophic Union.
 We are working with a Trigonocracy Model running at the Municipal level with Supranational powers outlined in the document.
-
 
 # Rights
 
 ## UN - Universal Declaration of Human Rights
+
 All text from the Universal Declaration of Human Rights Shall be valid here.
 Text:
 https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
+
 ## Right to Knowledge
-Section 1: 
+
+Section 1:
 Every person has the right to access, preserve, and share human knowledge for educational, research, and civic purposes without economic barrier.
 
 Section 2:
 Copyright protections shall not exceed 28 years from first publication.
 
 Section 3:
-Libraries, educational institutions, and civic organizations may preserve and provide access to published works for non-commercial educational purposes 
+Libraries, educational institutions, and civic organizations may preserve and provide access to published works for non-commercial educational purposes
 without restriction after initial copyright term expires.
 
 Section 4:
@@ -36,16 +36,14 @@ Section 5:
 Congress shall have power to enforce this article by appropriate legislation.
 
 # Rules
+
 1.) Political Parties (internal or external) are banned, political identification such as identifying as a Social Democrat or Technocrat are allowed.
-2.) The following ideologies and any ideologies related to these ideologies are banned: Fascism and Totalitarianism 
+2.) The following ideologies and any ideologies related to these ideologies are banned: Fascism and Totalitarianism
 
-
-
-
-
-# Definitions 
+# Definitions
 
 ## Subject Election Principal
+
 Elections where voters choose policy statements (subjects) rather than individual candidates; candidates receive support based on how well their proposed statements align with voters' choices.
 
 ```mermaid
@@ -53,9 +51,9 @@ flowchart TD
     V[Voters vote on statements]
     A[Aggregate & deduplicate statements]
     C[Optional control questions to verify attention]
-    E[Compute democratic disposition (p1..pm)]
-    W[Apply candidate-statement weights wj,i]
-    VP[Compute vote power v(Xi) and percentages p(Xi)]
+    E[Compute democratic disposition]
+    W[Apply candidate-statement weights]
+    VP[Compute vote power v and percentages p]
     R[Rank candidates & publish results]
 
     V --> A --> C --> E --> W --> VP --> R
@@ -65,7 +63,9 @@ flowchart TD
     style VP fill:#90caf9,stroke:#1565c0,color:#000
     style R fill:#c8e6c9,stroke:#2e7d32,color:#000
 ```
+
 ## Single Transferable Vote (STV)
+
 A form of ranked elections
 Each member ranks all candiate from first to last.
 Each candiate with or above the panel size divided by the number of seats is automatically elected.
@@ -74,21 +74,22 @@ The candiate with the lowest votes will have their votes reallocated to the rest
 
 If the remaining amount of candiates is equal to the panel size then the remaining candiates are elected to the panel.
 If the panel is full then vote reallocation is ended.
+
 ```mermaid
 flowchart TD
     subgraph "Single Transferable Vote Process"
         Start["Initial Vote Count"] --> Quota["Quota Check:<br/>50% + 1"]
-        
+    
         Quota -->|"Meets Quota"| Winner["Winner Elected"]
         Quota -->|"Below Quota"| Surplus["Surplus Votes<br/>Transfer"]
-        
+    
         Surplus -->|"Excess Votes"| Transfer["Transfer to<br/>Next Preference"]
         Surplus -->|"No Excess"| Eliminate["Eliminate Lowest<br/>Candidate"]
-        
+    
         Transfer --> Quota
         Eliminate --> Quota
     end
-    
+  
     style Start fill:#e3f2fd,stroke:#1565c0,color:#000000
     style Quota fill:#bbdefb,stroke:#1565c0,color:#000000
     style Winner fill:#90caf9,stroke:#1565c0,color:#000000
@@ -96,206 +97,457 @@ flowchart TD
     style Transfer fill:#81d4fa,stroke:#1565c0,color:#000000
     style Eliminate fill:#81d4fa,stroke:#1565c0,color:#000000
 ```
+
 ## Technocracy
+
 "Rule of the Engineer"
-Technocracy is best defined as applying the Scientific Method to solving social problems OR running government as a engineering or technical problem. 
+Technocracy is best defined as applying the Scientific Method to solving social problems OR running government as a engineering or technical problem.
+
 ### Technocrat
-A person who applies technocracy in a governing structure. 
+
+A person who applies technocracy in a governing structure.
 
 ## Union
+
 The Trisophic Union
-
-
-
-
 
 
 
 
 # Branches
 
+
 ## Executive
 
 
 
+The executive branch carries out most of the actions within and outside the trisophic union. Follows the rules of the legislative but is free to apply rules in order to fit the best way possible.
+
+The executive is split into multiple offices to distribute power and duties to the most qualified people.
+
+Ideally a from of technocracy would be employed in this branch.
+
+
+### Offices
+
+The offices is defined in the structure sub-section.
+
+Offices are allowed to define themselves beyond this document but must follow rules outlined here.
+
+
+Minimum Requirement for all offices:
+
+- Must display a clear argument for why they should be chosen for a spesific office OR chosen for office.
+- Must atleast display a clear knowledge and understanding of topics, actioms, and ideas required for each office.
+- Must know Trigonocracy.
+- Hasn't violated a rule in the past, or has been pardoned.
 
 
 ### Structure
+
 #### Presidential Office
+
+---
+
 There will be two seats in the presidential office
+
 - Executive
 - Vice Executive
-Executive and Vice executive have the same amount of power. 
+  Executive and Vice executive have the same amount of power.
 
-TEMPORARY MEASURE: Presidential office is absolute, anything can be done to uphold this constitution,
+TEMPORARY MEASURE: Presidential office is absolute, anything can be done to uphold this constitution.
+
+If any office is empty, then the Presidental office outmatically takes control of that office until its requirements can be met.
+
+##### Membership
+
+- Must be voted in by 2/3rds vote of the Legislative Congress
+
+
 #### Foreign Affairs Office
-This office takes care of the foreign diplomacy of the state towards other states, but also
-to the upper levels of federalism (supranational and global level). Diplomacy in Studium Primum is required.
-#### Home Office
-This office focuses on intranational affairs, especially on infrastructure and food supply. Economy
-in Studium Primum is required.
-#### Economy Office
-This office oversees the economic development of the country. Economy in Studium Primum
-is required.
-#### Defense Office
-This office is responsible for the country’s defense capabilities. Military science in Studium
-Primum is required.
-#### Finance Office
-This office regulates the executive’s relationship with the monecative, which is the finance-
-overseeing state power described in subsection 7.4. Economy in Studium Primum is required.
-#### Judicial Office:
-This office regulates the executive’s relationship with the jurisdiction. Law in Studium Primum
-is required.
 
-#### Education and Science Office 
+---
+
+Handles Diplomacy with alliances. If the Trisophic Union grows to include multiple levels then the tasks of the Foregin Affairs office is delegated to the cooperation office and assumes the new repondsiblity of diplomacy towards different states and higher levels.
+
+
+##### Membership
+
+- Must be active weekly, higher activity will lead to a higher chance to be chosen.
+
+
+#### Home Office
+
+---
 
 Respondsible for development and testing of union tools.
 
+This office focuses on intranational affairs, especially on infrastructure and food supply.
+
+##### Membership
+
+- Developer proficent in JS or C/C++ and git
+
+
+
+#### Economy Office
+
+---
+
+Respondsible for overview of finiancial situation of the union and finical advise to members.
+
+##### Membership
+
+- Currently have taken or taking finanical classes.
+
+
+
+#### Defense Office
+
+---
+
+This office is responsible for the union's defense capabilities and self defense adivce.
+
+##### Membership
+
+- Must be able to bench 135lbs
+
+
+
+#### Finance Office
+
+---
+
+This office regulates the executive’s relationship with the monecative, which is the finance-
+overseeing state power described in subsection 7.4.
+
+
+##### Membership
+
+- Part of the Penecium in the Monocative branch or Currently have taken or taking finanical classes along with communications.
+
+
+
+#### Judicial Office:
+
+---
+
+This office regulates the executive’s relationship with the jurisdiction.
+
+##### Membership
+
+- Must have atleast contributed to a Trisophic Union document.
+- Clear understanding of Trigonocracy
+- Understanding of Technocracy
+
+
+
+#### Education and Science Office
+
+---
+
 This office oversees the education politics and regulates the relationships with
 universities, which, in turn, decide upon the educational basis for the scientific and political elite in the country.
-MINT in Studium Primum is required.
+
+##### Membership
+
+- Must be a teacher or tutor or mentor.
+
+
+
 #### Ethical Office
+
+---
+
 To include ethical considerations in the political endeavor, this office represents philosophical
-and ethical points of view. Philosophy in Studium Primum is required.
+and ethical points of view.
+
+##### Membership
+
+- Membership in this office is to include only philosophers and those with a good moral logic.
+
+
+
 #### Food and Health Office
-This office focuses on healthy nutrition and health care. Medicine in Studium Primum
-is required.
+
+---
+
+This office focuses on healthy nutrition and health care.
+
+##### Membership
+
+- Must be able to bench press 135lbs
+
+
+
 #### Work and Social Affairs Office
+
+---
+
 This office focuses on the social aspects in the country, especially employment,
 family affairs and youth. Social Sciences in Studium Primum is required.
+
+##### Membership
+
+- Must be social out in public.
+
 #### Environmental Office
+
 This office focuses on the relationship between humanity and its environment, ensuring
-that the political endeavor does not neglect nature. MINT in Studium Primum is required.
+that the political endeavor does not neglect nature.
+
+##### Membership
+
+- Only enviormentalists are allowed.
+
+
+
 #### Cooperation Office
+
+---
+
 Cooperation office can include people from outside the union we are collaborating with. This is the only office allowed to communicate outside the union.
 
+##### Membership
+
+Membership is split into 2 categories, external and internal.
+
+**Internal**
+
+- Diplomiatic expert, or currently studing communications.
+
+**External**
+
+- Only leaders or representatives from different movements, groups, or organizations are allowed to have external membership.
+
+
+
 #### Spacefare Office
-As an important aspect of the security of survival is to expand into space, this office regulates
-and oversees spacefare programs and guarantees an efficient and effective collaboration between nations. Physics or mathematics in Studium Primum is required.
+
+---
 
 
 
+As an important aspect of the security of survival is to expand into space, this office regulates and oversees spacefare programs and guarantees an efficient and effective collaboration between nations.
 
+##### Membership
 
-
-
-
+- Qualified for both Home and Education Office.
+- Clear interest in Astrophysics or Engineering
 
 
 
 ## Legislative
 
-There wil be three chaimbers within the union
-An item can be proposed to the parliment by an member of the union, automatically it should go into one of three lists. 
+There wil be three chaimbers within the legislative strucutre
+An item can be proposed to the legislative by an member of the union, automatically it should go into one of three classes.
 
 - Minor Congress (Parliment & Council)
-    - Small item, requring minimal attention
+  - Small item, requring minimal attention
 - Congress (Parliment, Council, & Lobbyists)
-    - Default list every item will go to.
+  - Default list every item will go to.
 - Major Congress (Parliment, Council, Lobbyists, and Pecunium).
-    - Deals with budget, or concerns the entire union
+  - Deals with budget, or concerns the entire union
 
-Each person with a position in the Legislative is allowed to view each item at any time. 
+Each person with a position in the Legislative is allowed to view each item at any time.
 
 Each person with voting power can approve or reject an item at anytime, their vote can be changed later.
+
 - If an item recives above a 2/3rds or 66% approval, it is passed.
 - If an item recives bellow a 33% approval, it is discarded.
-
-
 - Any item stuck in between or is not given enough votes will have their votes reset
 - Any item that is in anylist for more than a month is automatically discarded.
 - If an item is changed at any time, the votes are revoked unless it is changed to be a previous state, in that case the votes during that state are restored.
 
-
 ### Structure
 
 #### Parliament
+
 The Parliament will be composed of 8 members at the maximum chosen by election via the Subject Election Principal.
 The Parliment is the main Legislative body of the Union, and forms in opposition of the executive.
 
-
 #### Council
+
 The Council will be composed of 6 members at maximum and chosen by Single Transferable vote
 
+#### The Technocracy Lobby
 
-#### The Technocracy Lobby 
 The Technocracy Lobby may only consist of 4 Technocrats. They have no voting power when it comes elections.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Judicial
 
+The Judical stays mostly the to the US consitution, with some additions.
+
 ### Structure
 
 #### Judicial Board
+
+Processes and judges individuals.
+
+Each Judical Members votes 2/3rds to appoint a new judge.
+
+Each member must choose their own successor if they choose to leave.
+
+Judical Board size limted to 3 people.
+
 #### Judaical Council
+
+Handles more complex cases
+
 #### Custodium
+
+Interprets and enforeces the constitution with logic. Indipendant of any political ideology.
+
+Indipendant of all branches.
+
+
+##### Duties
+
+Leading the sessions of panels: The custodium leads the sessions to maintain order and to prevent the panels
+from behaving too soft towards themselves.
+• Protocolization: The custodium records the sessions to maintain the transparency of political processes towards
+the people, and thus to enhance the basis for accountability for the incumbents.
+• Organization and execution of elections: To prevent electoral fraud, the legislative is not allowed to organize
+elections anymore. Accordingly, the other powers face the same limitations. Therefore, the custodium organizes
+and executes the elections, counts the votes and declares the results.
+• Securing the division of powers: The custodium is responsible for the compliance of incumbents towards the
+laws, especially towards the division of political power.
+• Detection of corruption and law enforcement: Especially, corruption is to be a focal point of the investigative
+actions of the custodium.
+• Personal security: Beside control, the custodium also protects the incumbents and the institutions, acting as a union security.
+
+
+##### Educational Requirements
+
+• Trigonocratic structure and functionality
+• Tactics and strategy; military history and theory
+• Introduction to intelligence services
+• Criminalistics
+• Tactical combat
+
+
 Part of the custodium will consist of Project Algocracy.
-
-
-
-
-
-
-
 
 ## Mediacative
 
 ### Rules
 
+Prohibition of war propaganda. In 2001, Anne Morelli systematized the essential war propaganda techniques of Arthur
+Ponsonby, who discussed the propaganda approaches to enhance readiness for war (Morelli, 2001; Ponsonby, 1928).
+One objective of the mediacative is to prevent, identify, and prosecute these ten techniques of war propaganda:
+• “We do not war.”
+• “The opposite party alone is guilty for war.”
+• “The enemy is inherently evil and resembles the devil.”
+• “We defend a noble cause, not our own interests.”
+• “The enemy commits atrocities on purpose; our mishaps are involuntary.”
+• “The enemy uses forbidden weapons.”
+• “We suffer small losses, those of the enemy are enormous.”
+• “Recognized artists and intellectuals back our cause.”
+• “Our cause is sacred.”
+• “All who doubt our propaganda are traitors.”
+
+***Prohibition of emotional coverage of politically relevant subjects.***
+
+Political decision-making must be grounded on logical thinking, facts, and respectful discussion. Emotional mobilization of people contradicts these requirements. There-
+fore, reporting must be objective and free of emotional accentuation.
+
+
+
+***Requirement of the use of unmistakable, non-suggestive, and neutral wording**.*
+
+In addition to the latter objective, the
+information needs to be formulated in clear and neutral speech, without suggestive intrusion of ideas. Thereby, the
+public’s opinion can evolve without manipulation.
+
+
+
+***Requirement of transparency of coverage***.
+
+For all information delivered, their source and acquisition are to be reported
+as well. It is to be guaranteed that their origins are verifiable.
+
+
+
+***Requirement of the independent perspective principle.***
+
+To prevent usage of substantive focus and one-sided reporting,
+for situations with far-reaching consequences, three perspectives need to be communicated.
+
+
+
+***Prohibition of distortion of facts, statistical context distortion, or usage of deepfake media.***
+
+Statistics are often used to convince the public to develop a particular opinion. Albeit the educational system of the trigonocratic system should
+minimize the danger of manipulation, the reporting must provide crucial information about the background of statistical
+values and the reported content in general.
+
+
+
+***Prohibition of proliferation of fake or incomplete news.***
+
+On the one hand, distribution of fake news and context-less
+information in social media is to be prohibited. On the other hand, however, media institutions themselves are obligated
+only to spread confirmed and context-based information.
+
+
+
+***Prohibition of discrimination or discreditation of individuals or groups.***
+
+Often, some people or groups of people are
+unofficially declared to be disagreeable. However, the only institution to decide upon someone’s guilt is the jurisdiction.
+Before and besides eventual judgements, people are to be treated with respect. Even reports about convicted criminals
+must be as neutral as possible. Hereby, scapegoating is to be prevented.
+
+
+
+***Prohibition of defamation and undermining of presumption of innocence.***
+
+In addition to the convention before, media is
+prohibited to imply that a person (or institution) is to be regarded as guilty, although it is only accused. Until the juris-
+diction decides upon the final judgement, the principle in dubio pro reo must be respected. However, if there are justified
+doubts about the innocence after the judgement, it can be communicated, but solely on a reasonable basis rather than
+defamation-like presumptions.
+
+***Prohibition of capitalization of panic or public emotions.***
+
+It is inevitable that, especially in times of crises, the public is
+prone to turmoil and panic. Humans were and are emotional beings, thus emotional debates will take place in future as
+well. However, the heating up and capitalization of panic and emotions is to be forbidden, as it constitutes an intervention
+into the natural behavior of societies.
+
+***Permission and support of independent, investigative journalism.***
+
+Albeit the institutional power of the media can mobilize large numbers of contingents, proactive investigations have the advantage of flexibility and leads to discoveries of crimes. Therefore, independent investigations are to be permitted and, if necessary, supported and protected
+
 
 ### Structure
+
 #### Mediatorium
-Chosen by election via the Subject Election Principal, it can't consist of more than 5 people. 
+
+Chosen by election via the Subject Election Principal, it can't consist of more than 5 people.
+
 #### Media Delegation
+
 Consists of members that control any portion of media (Union or non-Union controlled)
-
-
-
-
-
-
-
-
-
-
 
 ## Monocative
 
-
 ### Structure
+
 #### Pecunium
+
 Chosen by election via the Subject Election Principal, it can't consist of more than 5 people.
+
 #### Aerarium
+
 The Aerarium is composed of people who control banks or financial institutions (Union or Non-Union Controlled)
-
-
-
-
-
-
-
-
-
-
 
 # Signatures
 
 # Comments
+
 Anything under the "Comments" section does not apply to the constitution. It is only here to organize thoughs
 
 Pasted a lot from Trigonocracy - Cyborgnetical
