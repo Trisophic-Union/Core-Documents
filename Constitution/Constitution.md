@@ -7,7 +7,11 @@ Third Constitution "Well what do we name it?"
 # Notes
 
 This constitution only applies within the Trisophic Union.
-We are working with a Trigonocracy Model running at the Municipal level with Supranational powers outlined in the document.
+We are working with a Trigonocracy Model running at the Municipal level (with exceptions) with Supranational powers outlined in the document.
+
+TEMPORARY MEASURE:
+Right, this is to be removed when its no longer required.
+Cyborgnetical (The Exectuve), has complete control. He is respondsible to appoint each person to each branch. Once each branch is function, he must give up his absolute power and take role as "The Executive"
 
 # Rights
 
@@ -37,8 +41,11 @@ Congress shall have power to enforce this article by appropriate legislation.
 
 # Rules
 
-1.) Political Parties (internal or external) are banned, political identification such as identifying as a Social Democrat or Technocrat are allowed.
-2.) The following ideologies and any ideologies related to these ideologies are banned: Fascism and Totalitarianism
+1. Political Parties (internal or external) are banned, political identification such as identifying as a Social Democrat or Technocrat are allowed.
+2. The following ideologies and any ideologies related to these ideologies are banned: Fascism and Totalitarianism
+3. The constitution is the surpreme law of the union.
+4. Each branch can come up with their own internal structure, as long as it complies and follows the structure, rules, and powers defined in the constitution.
+5. No branch is allowed to extend their own powers to control other branches.
 
 # Definitions
 
@@ -79,13 +86,13 @@ If the panel is full then vote reallocation is ended.
 flowchart TD
     subgraph "Single Transferable Vote Process"
         Start["Initial Vote Count"] --> Quota["Quota Check:<br/>50% + 1"]
-    
+  
         Quota -->|"Meets Quota"| Winner["Winner Elected"]
         Quota -->|"Below Quota"| Surplus["Surplus Votes<br/>Transfer"]
-    
+  
         Surplus -->|"Excess Votes"| Transfer["Transfer to<br/>Next Preference"]
         Surplus -->|"No Excess"| Eliminate["Eliminate Lowest<br/>Candidate"]
-    
+  
         Transfer --> Quota
         Eliminate --> Quota
     end
@@ -111,15 +118,9 @@ A person who applies technocracy in a governing structure.
 
 The Trisophic Union
 
-
-
-
 # Branches
 
-
 ## Executive
-
-
 
 The executive branch carries out most of the actions within and outside the trisophic union. Follows the rules of the legislative but is free to apply rules in order to fit the best way possible.
 
@@ -127,13 +128,11 @@ The executive is split into multiple offices to distribute power and duties to t
 
 Ideally a from of technocracy would be employed in this branch.
 
-
 ### Offices
 
 The offices is defined in the structure sub-section.
 
 Offices are allowed to define themselves beyond this document but must follow rules outlined here.
-
 
 Minimum Requirement for all offices:
 
@@ -141,7 +140,6 @@ Minimum Requirement for all offices:
 - Must atleast display a clear knowledge and understanding of topics, actioms, and ideas required for each office.
 - Must know Trigonocracy.
 - Hasn't violated a rule in the past, or has been pardoned.
-
 
 ### Structure
 
@@ -163,18 +161,15 @@ If any office is empty, then the Presidental office outmatically takes control o
 
 - Must be voted in by 2/3rds vote of the Legislative Congress
 
-
 #### Foreign Affairs Office
 
 ---
 
 Handles Diplomacy with alliances. If the Trisophic Union grows to include multiple levels then the tasks of the Foregin Affairs office is delegated to the cooperation office and assumes the new repondsiblity of diplomacy towards different states and higher levels.
 
-
 ##### Membership
 
 - Must be active weekly, higher activity will lead to a higher chance to be chosen.
-
 
 #### Home Office
 
@@ -188,8 +183,6 @@ This office focuses on intranational affairs, especially on infrastructure and f
 
 - Developer proficent in JS or C/C++ and git
 
-
-
 #### Economy Office
 
 ---
@@ -199,8 +192,6 @@ Respondsible for overview of finiancial situation of the union and finical advis
 ##### Membership
 
 - Currently have taken or taking finanical classes.
-
-
 
 #### Defense Office
 
@@ -212,8 +203,6 @@ This office is responsible for the union's defense capabilities and self defense
 
 - Must be able to bench 135lbs
 
-
-
 #### Finance Office
 
 ---
@@ -221,12 +210,9 @@ This office is responsible for the union's defense capabilities and self defense
 This office regulates the executive’s relationship with the monecative, which is the finance-
 overseeing state power described in subsection 7.4.
 
-
 ##### Membership
 
 - Part of the Penecium in the Monocative branch or Currently have taken or taking finanical classes along with communications.
-
-
 
 #### Judicial Office:
 
@@ -240,8 +226,6 @@ This office regulates the executive’s relationship with the jurisdiction.
 - Clear understanding of Trigonocracy
 - Understanding of Technocracy
 
-
-
 #### Education and Science Office
 
 ---
@@ -252,8 +236,6 @@ universities, which, in turn, decide upon the educational basis for the scientif
 ##### Membership
 
 - Must be a teacher or tutor or mentor.
-
-
 
 #### Ethical Office
 
@@ -266,8 +248,6 @@ and ethical points of view.
 
 - Membership in this office is to include only philosophers and those with a good moral logic.
 
-
-
 #### Food and Health Office
 
 ---
@@ -277,8 +257,6 @@ This office focuses on healthy nutrition and health care.
 ##### Membership
 
 - Must be able to bench press 135lbs
-
-
 
 #### Work and Social Affairs Office
 
@@ -300,8 +278,6 @@ that the political endeavor does not neglect nature.
 
 - Only enviormentalists are allowed.
 
-
-
 #### Cooperation Office
 
 ---
@@ -320,13 +296,9 @@ Membership is split into 2 categories, external and internal.
 
 - Only leaders or representatives from different movements, groups, or organizations are allowed to have external membership.
 
-
-
 #### Spacefare Office
 
 ---
-
-
 
 As an important aspect of the security of survival is to expand into space, this office regulates and oversees spacefare programs and guarantees an efficient and effective collaboration between nations.
 
@@ -334,8 +306,6 @@ As an important aspect of the security of survival is to expand into space, this
 
 - Qualified for both Home and Education Office.
 - Clear interest in Astrophysics or Engineering
-
-
 
 ## Legislative
 
@@ -374,8 +344,6 @@ The Council will be composed of 6 members at maximum and chosen by Single Transf
 
 The Technocracy Lobby may only consist of 4 Technocrats. They have no voting power when it comes elections.
 
-
-
 ## Judicial
 
 The Judical stays mostly the to the US consitution, with some additions.
@@ -402,7 +370,6 @@ Interprets and enforeces the constitution with logic. Indipendant of any politic
 
 Indipendant of all branches.
 
-
 ##### Duties
 
 Leading the sessions of panels: The custodium leads the sessions to maintain order and to prevent the panels
@@ -418,7 +385,6 @@ laws, especially towards the division of political power.
 actions of the custodium.
 • Personal security: Beside control, the custodium also protects the incumbents and the institutions, acting as a union security.
 
-
 ##### Educational Requirements
 
 • Trigonocratic structure and functionality
@@ -426,7 +392,6 @@ actions of the custodium.
 • Introduction to intelligence services
 • Criminalistics
 • Tactical combat
-
 
 Part of the custodium will consist of Project Algocracy.
 
@@ -453,29 +418,21 @@ One objective of the mediacative is to prevent, identify, and prosecute these te
 Political decision-making must be grounded on logical thinking, facts, and respectful discussion. Emotional mobilization of people contradicts these requirements. There-
 fore, reporting must be objective and free of emotional accentuation.
 
-
-
 ***Requirement of the use of unmistakable, non-suggestive, and neutral wording**.*
 
 In addition to the latter objective, the
 information needs to be formulated in clear and neutral speech, without suggestive intrusion of ideas. Thereby, the
 public’s opinion can evolve without manipulation.
 
-
-
 ***Requirement of transparency of coverage***.
 
 For all information delivered, their source and acquisition are to be reported
 as well. It is to be guaranteed that their origins are verifiable.
 
-
-
 ***Requirement of the independent perspective principle.***
 
 To prevent usage of substantive focus and one-sided reporting,
 for situations with far-reaching consequences, three perspectives need to be communicated.
-
-
 
 ***Prohibition of distortion of facts, statistical context distortion, or usage of deepfake media.***
 
@@ -483,15 +440,11 @@ Statistics are often used to convince the public to develop a particular opinion
 minimize the danger of manipulation, the reporting must provide crucial information about the background of statistical
 values and the reported content in general.
 
-
-
 ***Prohibition of proliferation of fake or incomplete news.***
 
 On the one hand, distribution of fake news and context-less
 information in social media is to be prohibited. On the other hand, however, media institutions themselves are obligated
 only to spread confirmed and context-based information.
-
-
 
 ***Prohibition of discrimination or discreditation of individuals or groups.***
 
@@ -499,8 +452,6 @@ Often, some people or groups of people are
 unofficially declared to be disagreeable. However, the only institution to decide upon someone’s guilt is the jurisdiction.
 Before and besides eventual judgements, people are to be treated with respect. Even reports about convicted criminals
 must be as neutral as possible. Hereby, scapegoating is to be prevented.
-
-
 
 ***Prohibition of defamation and undermining of presumption of innocence.***
 
@@ -521,7 +472,6 @@ into the natural behavior of societies.
 
 Albeit the institutional power of the media can mobilize large numbers of contingents, proactive investigations have the advantage of flexibility and leads to discoveries of crimes. Therefore, independent investigations are to be permitted and, if necessary, supported and protected
 
-
 ### Structure
 
 #### Mediatorium
@@ -532,18 +482,95 @@ Chosen by election via the Subject Election Principal, it can't consist of more 
 
 Consists of members that control any portion of media (Union or non-Union controlled)
 
-## Monocative
+## Monecative
+
+<!-- Extra note from cyborgnetical--->
+
+<!-- Future plans to intergrate project Cybersyn into this--->
+
+Similarly to the mediacative, the monecative constitutes a novel power of state. It represents the basis for institutions, overseeing the finances of the state, independent from the legislative and executive. However, the trigonocratic principle constitutes a central aspect of its architecture. Therefore, a structure resembling that of the mediacative is to be achieved, including democratic and meritocratic requirements of legitimization.
+
+### Areas of Accountability
+
+In general, all powers and accountabilities of the central banks are to be included in the new power of state. In addition, several competencies of the legislative and the executive are to be subtracted and added to the monecative. This is due to the requirement that the decision-making process concerning financial issues must prevent lavishness among the parliamentarians, who are eager to improve their position against their own stakeholders, i.e. the people.
+
+Therefore, additionally to the supervision of banks, the monecative must be authorized to supervise the financial expenses of the state in general, overseeing the state's budget, i.e. handling of tax income, especially the adequacy of tax law. Furthermore, the monecative is responsible for the prevention and detection of corruption in politics in particular.
+
+Hence, the monecative discusses the financial decision-making with the legislative and the executive. In accordance with the federalistic structure, this overseeing authorization must be adjusted to the corresponding state level.
+
+Further determinations must be made in consideration of the corresponding cultural values and norms, the customary laws and the people's expectations. In each case, the institutional implementation of the monecative is to be called the monetariate. The custodium (see section on Judicial) guarantees the compliance towards the CAT principle.
 
 ### Structure
 
 #### Pecunium
 
-Chosen by election via the Subject Election Principal, it can't consist of more than 5 people.
+The Pecunium constitutes the democratically legitimized chamber of the monetariate. Its primary duties are to represent citizens' financial interests, to set public-facing financial policy goals, and to provide democratic oversight of monetary and fiscal decisions.
+
+Members of the pecunium are called "Pecunians"
+
+##### Election
+
+- Members (pecunians) are elected by voters using the Subject Election Principal (SEP).
+
+##### Membership
+
+- Limited to 5 members only
+
+##### Powers
+
+***Request Review***
+
+- Can request finiance reports from the Aerarium and Union-Controlled financial institutions
+
+***Monetary Policy***
+
+- Can approve, reject, or debate monetary policy proposed by the Aerarium or Executive that affects their respective areas. (Aerarium can only propose policies which only affects the aerarium, Executive can only propose policies that affect the executive)
+- Major budgets such as a yearly budget concerning the entire union must still be discussed with the Major Congress.
+
+***Corruption Report***
+- Can ignitiate an investigation on Union Politicians if corrution or legal breaches are suspected
+- If needed, the custodium can be called at any time to support investigation.
+- If a corruption report is done to a member(s) of the penuncum, then only the custodium is allowed to take actions.
+
+##### Rules
+
+1. Anonimous Actions
+All actions taken by the penicium are anonmimized to avoid deliberate targeting of an individual for financial or political gain, along with prevetning corruption.
+2. Shared Respondsibility
+As a counter balence to "Anonimous Actions", all pecunians are respondsible for each others actions, both positive and negative. In essecanse, this means that everyone operates as the same entity to talk to.
+3. Complete Neutrality
+To become a candidate of the Pecunium, you must have neutral stance towards politics.
+(Neutral can be defined, as not benefiting a particular group or individual, but to take in account all views and data and take the smartest action. This means call  - Aerarians are selected according to the SEP among qualified financial professionals, prioritizing candidates with supervisory or central-banking experience.
+  - Panel sizes mirror the Pecunium with nAerarium = nPecunium - 1 (or as otherwise set by NLSP rules).
+ing out when something is clearly stupid or mean't to benefit a group, even if unintentional. You can still have your own views and affliations but your actiosn must be neutral)
+  - The Pecunium shall not perform day-to-day management of banks or execute monetary policy instruments reserved to the aerarium.
+  - Decisions requiring technical central-banking operations are made in coordination with the aerarium and documented in public reports.
 
 #### Aerarium
 
-The Aerarium is composed of people who control banks or financial institutions (Union or Non-Union Controlled)
+The Aerarium is the technocratic chamber of the monetariate, composed of members (aerarians) with banking, monetary policy, and financial supervision experience. Its role is operational stewardship of monetary instruments, bank supervision, and technical fiscal advice.
 
+##### Elections
+
+- Aerarians are chosen via the Subject Election Principal.
+- The "voters" are those institutions or individuals who hold capital (money) and want to participate in the Aerarium
+- The "candidates" are proposed by the same capital holders, candidates get to choose what polices they support. 
+
+***Candidate Requirements***
+- Must have atleast taken a financial class and have presentable proof OR demonstrate enough knowledge in economics and/or financing.
+
+##### Membership
+
+- Limited to 4 members only
+
+##### Rules
+- Must follow laws and orders from both the Pecunium
+
+
+- Upon completion of project cybernet (Part of Project Cybersyn.) all banks represented by each Aerarium member must register to be part of cybernet. (This rule current is to be defined later)
+- Must deliver at the very least a financial report every year.
+- Reports must be public, non-sensitive, and clear.
+- Where policy choices have distributive or democratic implications, the Aerarium negotiates with the Pecunium; final democratic mandates rest with the Pecunium while technical execution remains with the Aerarium.
 # Signatures
 
 # Comments
