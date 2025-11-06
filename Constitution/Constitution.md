@@ -1,6 +1,6 @@
 # The Trisophic Union Constitution
 
-Third Constitution "Well what do we name it?"
+Third Constitution "Democratic Experiment"
 
 ---
 
@@ -53,23 +53,54 @@ Congress shall have power to enforce this article by appropriate legislation.
 
 Elections where voters choose policy statements (subjects) rather than individual candidates; candidates receive support based on how well their proposed statements align with voters' choices.
 
-```mermaid
-flowchart TD
-    V[Voters vote on statements]
-    A[Aggregate & deduplicate statements]
-    C[Optional control questions to verify attention]
-    E[Compute democratic disposition]
-    W[Apply candidate-statement weights]
-    VP[Compute vote power v and percentages p]
-    R[Rank candidates & publish results]
+### Proposals
 
-    V --> A --> C --> E --> W --> VP --> R
+Candidates propose subjects and issues (items) which they deem most important to be address.
 
-    style V fill:#e3f2fd,stroke:#1565c0,color:#000
-    style E fill:#bbdefb,stroke:#1565c0,color:#000
-    style VP fill:#90caf9,stroke:#1565c0,color:#000
-    style R fill:#c8e6c9,stroke:#2e7d32,color:#000
-```
+All items are then collected without duplicates
+
+Candidates register and select others items which they do or do not support.
+
+
+In the end, the average of the items 
+
+### Elections
+
+#### First Election Month
+
+1. Members review a list of items
+2. Memebers vote to agree, disagree, or stay neutral on a subject
+3. All items are assignd a weight by the following equation
+
+
+( V ) = Total number of voters
+( A_i ) = Number of voters who agree with item ( i )
+( D_i ) = Number of voters who disagree with item ( i )
+( N_i ) = Number of neutral votes for item ( i )
+( w_i ) = Weight Value
+
+[ W_i = \frac{A_i - D_i}{V} ]
+
+The end result should be between 0 and 1, if any result is under 0 then the weight is assinged a value of 0.
+
+4. Average of all weights for each candidate is calculated.
+
+aW_i = The sum of all weight values of each opinion proposed by each candidate.
+nW_i = Amount of opinions propsed
+
+[ aW_i / nW_i]
+
+
+#### Second Election Month
+
+Second Election Month is to happen 1 year later.
+
+1. Members are only allowed to vote for the candidates whos ideas they supported.
+2. Same procedure follows as the first election month, only this time they are voting weather each idea was completed by each candidate.
+3. Same idea is voted on, but for different candidates and how much they completed.
+4. Any candidate reciving a score below 3 is prohibited from rerunning.
+  - Candidates are allowed to challenge this in the Judical
+  - This ban is only for 4 years.
 
 ## Single Transferable Vote (STV)
 
@@ -133,8 +164,9 @@ Ideally a from of technocracy would be employed in this branch.
 The offices is defined in the structure sub-section.
 
 Offices are allowed to define themselves beyond this document but must follow rules outlined here.
+Offices are only allowed to execute actions within the executive and not other branches.
 
-Minimum Requirement for all offices:
+Minimum Requirement for application to any office:
 
 - Must display a clear argument for why they should be chosen for a spesific office OR chosen for office.
 - Must atleast display a clear knowledge and understanding of topics, actioms, and ideas required for each office.
@@ -159,13 +191,13 @@ If any office is empty, then the Presidental office outmatically takes control o
 
 ##### Membership
 
-- Must be voted in by 2/3rds vote of the Legislative Congress
+- Must be voted in by 2/3rds vote of the Main Congress
 
 #### Foreign Affairs Office
 
 ---
 
-Handles Diplomacy with alliances. If the Trisophic Union grows to include multiple levels then the tasks of the Foregin Affairs office is delegated to the cooperation office and assumes the new repondsiblity of diplomacy towards different states and higher levels.
+Handles diplomacy with other groups of similar size or bigger groups that the union is closely working with. While the respondsibilities are similar to the cooperation office, the Foreign Affairs offices deals with external situations where the cooperation office doesn't have authority over. (For example, a large deal to publically support and tightly work with a another group).
 
 ##### Membership
 
@@ -220,6 +252,12 @@ overseeing state power described in subsection 7.4.
 
 This office regulates the executive’s relationship with the jurisdiction.
 
+
+If any part of the executive is to be invovled with the judicial branch, then it must also communicate through the Judical Office.
+
+
+The Judicial office must also answer to the custodium to execute any executive actions within the union. It should not execute actions outside the union unless permitted by the Judical or the group/individual requesting support.
+
 ##### Membership
 
 - Must have atleast contributed to a Trisophic Union document.
@@ -243,6 +281,10 @@ universities, which, in turn, decide upon the educational basis for the scientif
 
 To include ethical considerations in the political endeavor, this office represents philosophical
 and ethical points of view.
+
+Can override any actions or decisions that are demmed unethical. As a consequence, the actions are to be challenged in the Judical Branch.
+
+Must also make note and use data from the Mediacative Branch.
 
 ##### Membership
 
@@ -282,7 +324,7 @@ that the political endeavor does not neglect nature.
 
 ---
 
-Cooperation office can include people from outside the union we are collaborating with. This is the only office allowed to communicate outside the union.
+Cooperation office can include people from outside the union we are collaborating with. This office is allowed to communicate with others outside the union for collaboration purposes. It must also answer any request that the mediacative asks of it.
 
 ##### Membership
 
@@ -310,11 +352,11 @@ As an important aspect of the security of survival is to expand into space, this
 ## Legislative
 
 There wil be three chaimbers within the legislative strucutre
-An item can be proposed to the legislative by an member of the union, automatically it should go into one of three classes.
+An item can be proposed to the legislative by an member of the union, automatically it should go into one of three congresses based on its requirements.
 
 - Minor Congress (Parliment & Council)
   - Small item, requring minimal attention
-- Congress (Parliment, Council, & Lobbyists)
+- Main Congress (Parliment, Council, & Lobbyists)
   - Default list every item will go to.
 - Major Congress (Parliment, Council, Lobbyists, and Pecunium).
   - Deals with budget, or concerns the entire union
@@ -395,11 +437,26 @@ actions of the custodium.
 
 Part of the custodium will consist of Project Algocracy.
 
+
+
+
+
+
+
+
+
+
+
 ## Mediacative
+
+
 
 ### Rules
 
-Prohibition of war propaganda. In 2001, Anne Morelli systematized the essential war propaganda techniques of Arthur
+These rules apply to the mediatorium.
+
+#### Prohibition of war propaganda. 
+In 2001, Anne Morelli systematized the essential war propaganda techniques of Arthur
 Ponsonby, who discussed the propaganda approaches to enhance readiness for war (Morelli, 2001; Ponsonby, 1928).
 One objective of the mediacative is to prevent, identify, and prosecute these ten techniques of war propaganda:
 • “We do not war.”
@@ -443,8 +500,7 @@ values and the reported content in general.
 ***Prohibition of proliferation of fake or incomplete news.***
 
 On the one hand, distribution of fake news and context-less
-information in social media is to be prohibited. On the other hand, however, media institutions themselves are obligated
-only to spread confirmed and context-based information.
+information in social media is to be prohibited. On the other hand, however, media institutions themselves are obligated only to spread confirmed and context-based information.
 
 ***Prohibition of discrimination or discreditation of individuals or groups.***
 
@@ -456,8 +512,7 @@ must be as neutral as possible. Hereby, scapegoating is to be prevented.
 ***Prohibition of defamation and undermining of presumption of innocence.***
 
 In addition to the convention before, media is
-prohibited to imply that a person (or institution) is to be regarded as guilty, although it is only accused. Until the juris-
-diction decides upon the final judgement, the principle in dubio pro reo must be respected. However, if there are justified
+prohibited to imply that a person (or institution) is to be regarded as guilty, although it is only accused. Until the jurisdiction decides upon the final judgement, the principle in dubio pro reo must be respected. However, if there are justified
 doubts about the innocence after the judgement, it can be communicated, but solely on a reasonable basis rather than
 defamation-like presumptions.
 
@@ -476,11 +531,71 @@ Albeit the institutional power of the media can mobilize large numbers of contin
 
 #### Mediatorium
 
+#### Elections
 Chosen by election via the Subject Election Principal, it can't consist of more than 5 people.
+
+
+##### Powers
+- Review media compliance with conventions
+- Request reports from media delegation
+- Initiate investigations into media misconduct
+- Issue public communications guidelines
+- Any channel or instituion falling under direct union control shall be part of the Mediatorium. This Power can be delegated to the Cooperation Office, but ultimately remainds under Mediatorium Control.
+
+##### Duties
+These Duties are meant to be delegated to the cooperation office
+
+- Must create reports on internal union operations and politics.
+  - When an item is introduced or passed, the Mediatorium must create a report
+  - This can be delegated to the cooperation office if requried.
+  - Must also keep track of union meetings in the legislative
+    - For clarification its only tracking
+    - The custodium does the enforcing 
+- Follow the "Prohibition of war propaganda" rules
+- Any channel or instituion under direct union control must follow the "Prohibition of war propaganda" rules. Failure to do so will result in intervention by the custodium.
+
+##### Rules
+1. Anonimous Actions
+All actions taken by the penicium are anonmimized to avoid deliberate targeting of an individual for financial gain, political gain, and corruption prevention.
+2. Everything must comply with "Prohibition of war propaganda" rules. Else, the custodium is allowed to intervene and remove any from office if they are to be violating the rules.
 
 #### Media Delegation
 
+Members shall be called "delegators"
+
 Consists of members that control any portion of media (Union or non-Union controlled)
+
+##### Elections
+
+- Delegators are chosen via the Subject Election Principal.
+- The "voters" are those institutions or individuals who hold capital (money) and want to work with the Union
+- The "candidates" are proposed by the same institutions, candidates get to choose what polices they support. 
+
+##### Rules
+1. Follow the "Prohibition of war propaganda" rules to the best of their ability. 
+2. Answer to the Mediatorium when required.
+3. Take into account the Mediatorium's Reports, 
+4. Register on project CyberFolk (Part of Project Cybersyn) upon completion. (To be defined)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Monecative
 
@@ -553,7 +668,7 @@ The Aerarium is the technocratic chamber of the monetariate, composed of members
 ##### Elections
 
 - Aerarians are chosen via the Subject Election Principal.
-- The "voters" are those institutions or individuals who hold capital (money) and want to participate in the Aerarium
+- The "voters" are those institutions or individuals who hold capital (money) and want to work with the Union.
 - The "candidates" are proposed by the same capital holders, candidates get to choose what polices they support. 
 
 ***Candidate Requirements***
@@ -564,13 +679,11 @@ The Aerarium is the technocratic chamber of the monetariate, composed of members
 - Limited to 4 members only
 
 ##### Rules
-- Must follow laws and orders from both the Pecunium
-
-
-- Upon completion of project cybernet (Part of Project Cybersyn.) all banks represented by each Aerarium member must register to be part of cybernet. (This rule current is to be defined later)
-- Must deliver at the very least a financial report every year.
-- Reports must be public, non-sensitive, and clear.
-- Where policy choices have distributive or democratic implications, the Aerarium negotiates with the Pecunium; final democratic mandates rest with the Pecunium while technical execution remains with the Aerarium.
+1. Must follow laws and orders from both the Pecunium
+2. Must deliver at the very least a financial report every year.
+3. Reports must be public, non-sensitive, and clear.
+4. Where policy choices have distributive or democratic implications, the Aerarium negotiates with the Pecunium; final democratic mandates rest with the Pecunium while technical execution remains with the Aerarium.
+5. Upon completion of project CyberNet (Part of Project Cybersyn) all banks represented by each Aerarium member must register to be part of cybernet. (This rule current is to be defined later)
 # Signatures
 
 # Comments
