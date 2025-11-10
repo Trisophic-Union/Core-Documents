@@ -4,14 +4,50 @@ Third Constitution "Democratic Experiment"
 
 ---
 
+# Key Documents Used
+There documents are ones being used for the creation of the constituion. In order to expand and interpret the constitution, there should be a reference to these documents.
+
+Trigonocracy - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068701
+
+Technical Alliance - https://cdn.discordapp.com/attachments/1128130669181153312/1128289511068155954/The_Technical_Alliance.pdf?ex=691277be&is=6911263e&hm=d46d45da1f6cefcec611c82c9cc0f00a03a1a9eb51b6f0e1fb808c34f52e15fd&
+
+Project Cybersyn (Wikipedia Article) - https://en.wikipedia.org/wiki/Project_Cybersyn 
+
+UN Univeral Declaration of Human Rights - https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
+
 # Notes
 
 This constitution only applies within the Trisophic Union.
 We are working with a Trigonocracy Model running at the Municipal level (with exceptions) with Supranational powers outlined in the document.
 
+## Programs
+
+### Extra Notes
+Development shall be delegated to both executive branch and custodium (partially) along with being monitored by the mediacative. Custodium are mandated to intervene if executive is found to be using programs inadecuetly.
+
+### Project Cybersyn
+A revival of project Cybersyn is being worked on, albeit its going to be a long time before its operational. Here are the main compotents
+- Operations Interface (Live data display)
+- Cybernet (Network of computers collecting and processing data)
+- CHECO (Chelian Economic simulator) NOTE: Name to be changed
+- Cyberstride (Software and Programs Running, along with the infrastructure to maintain them)
+- Cyberfolk (Anonimous Rating and alert system for citizens)
+
+
+### Project Algocracy
+Along side our own Project Algocracy is being created, (Technical Political Simulator).
+
+I admit in its current state its a mess. 
+
+
+Upon completion it shall aid in the custodium to simulate the constituion as a logical program to prevent manipulation of logic and catch corruption. Alongside enforcement where the custodium usually fails.
+It shall also serve as to handle administrative tasks of the Union when possible to prevent as much bearucracy as possible.
+
+
+## Measures
 TEMPORARY MEASURE:
 Right, this is to be removed when its no longer required.
-Cyborgnetical (The Exectuve), has complete control. He is respondsible to appoint each person to each branch. Once each branch is function, he must give up his absolute power and take role as "The Executive"
+Cyborgnetical (The Exectuve), has complete control. He is respondsible to appoint each person to each branch. Once each branch is functional, he must give up his absolute power and take role as "The Executive"
 
 # Rights
 
@@ -41,11 +77,28 @@ Congress shall have power to enforce this article by appropriate legislation.
 
 # Rules
 
-1. Political Parties (internal or external) are banned, political identification such as identifying as a Social Democrat or Technocrat are allowed.
-2. The following ideologies and any ideologies related to these ideologies are banned: Fascism and Totalitarianism
-3. The constitution is the surpreme law of the union.
-4. Each branch can come up with their own internal structure, as long as it complies and follows the structure, rules, and powers defined in the constitution.
-5. No branch is allowed to extend their own powers to control other branches.
+1. Fundamental Safeguards Against Autocracy:
+   - Power Distribution: No individual, office, or branch may accumulate powers beyond those explicitly granted by this constitution.
+   - Structural Separation: The five branches (Executive, Legislative, Judicial, Mediacative, and Monecative) must remain distinct and independent.
+   - Transparency Requirement: All governmental actions must be publicly documented and accessible, with the Mediatorium ensuring factual reporting.
+   - Scientific Method Requirement: All major policy decisions must be based on empirical evidence and follow the scientific method of hypothesis testing and peer review.
+
+2. Anti-Concentration Mechanisms:
+   - Political Parties within the Trisophic Union (originating either from internal or external circumstances) are discouraged through the Subject Election Principal system.
+   - No person may hold positions in multiple branches simultaneously.
+   - No office may create rules that concentrate power into a single person or group.
+   - The Custodium must review any structural changes for potential power concentration.
+
+3. The constitution is the supreme law of the union.
+   - Any attempt to suspend or override constitutional provisions is automatically void.
+   - The Custodium has immediate authority to intervene if constitutional provisions are violated.
+
+4. Each branch can develop their internal structure, provided that:
+   - It complies with this constitution
+   - Power remains distributed
+   - Decision-making remains transparent
+   - The scientific method is followed
+   - No branch extends control over other branches
 
 # Definitions
 
