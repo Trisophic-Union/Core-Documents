@@ -1,6 +1,6 @@
 # The Trisophic Union Constitution
 
-Third Constitution "Democratic Experiment"
+Third Constitution 
 
 ---
 
@@ -8,7 +8,7 @@ Third Constitution "Democratic Experiment"
 
 
 # Key Documents Used
-There documents are ones being used for the creation of the constituion. In order to expand and interpret the constitution, there should be a reference to these documents.
+There documents are ones being used for the creation of the constitution. In order to expand and interpret the constitution, there should be a reference to these documents.
 
 Trigonocracy - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068701
 
@@ -16,7 +16,7 @@ Technical Alliance - https://cdn.discordapp.com/attachments/1128130669181153312/
 
 Project Cybersyn (Wikipedia Article) - https://en.wikipedia.org/wiki/Project_Cybersyn 
 
-UN Univeral Declaration of Human Rights - https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
+UN Universal Declaration of Human Rights - https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
 
 Constitution of the United States - https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm
 
@@ -28,7 +28,7 @@ This constitution only applies within the Trisophic Union.
 
 We are working with a Trigonocracy Model running at the Municipal level (with exceptions) with Supranational powers outlined in the document.
 
-Anyone can modify it, its not like its completely offical yet.
+Anyone can modify it, nothing is completely official yet
 
 
 I need help in goals lol - Cyborgnetical
@@ -44,10 +44,10 @@ Lets improve upon the founding fathers work
 # Programs
 
 ## Extra Notes
-Development shall be delegated to both executive branch and custodium (partially) along with being monitored by the mediacative. Custodium are mandated to intervene if executive is found to be using programs inadecuetly.
+Development shall be delegated to both executive branch and custodium (partially) along with being monitored by the mediacative. Custodium are mandated to intervene if executive is found to be using programs inadequately.
 
 ## Project Cybersyn
-A revival of project Cybersyn is being worked on, albeit its going to be a long time before its operational. Here are the main compotents
+A revival of project Cybersyn is being worked on, albeit its going to be a long time before its operational. Here are the main components
 - Operations Interface (Live data display)
 - Cybernet (Network of computers collecting and processing data)
 - CHECO (Chelian Economic simulator) NOTE: Name to be changed
@@ -56,12 +56,12 @@ A revival of project Cybersyn is being worked on, albeit its going to be a long 
 
 
 ## Project Algocracy
-Along side our own Project Algocracy is being created, (Technical Political Simulator).
+Alongside our own Project Algocracy is being created, (Technical Political Simulator).
 
 I admit in its current state its a mess. 
 
 
-Upon completion it shall aid in the custodium to simulate the constituion as a logical program to prevent manipulation of logic and catch corruption. Alongside enforcement where the custodium usually fails.
+Upon completion it shall aid in the custodium to simulate the constitution as a logical program to prevent manipulation of logic and catch corruption. Alongside enforcement where the custodium usually fails.
 It shall also serve as to handle administrative tasks of the Union when possible to prevent as much bearucracy as possible.
 
 
@@ -79,20 +79,20 @@ The situation must be resolved to remove the measure along with any additonal co
 
 Measure 0:
 - The Union doesn't have enough members to function properly, and is still organizing
-- Cyborgnetical (The Exectuve), has complete control over the union, it his duty to appoint people to roles to get each branch functional.
+- Cyborgnetical (The Executive), has complete control over the union, it his duty to appoint people to roles to get each branch functional.
 - Conditions:
-  - Power is changed to an advisory from spesific internal structures once they are working. (Mediatorium, Media Delegation, Penecium, etc)
+  - Power is changed to an advisory from specific internal structures once they are working. (Mediatorium, Media Delegation, Penecium, etc)
   - Advisory role is completely removed once the specified branch is fully functional. (Executive, Legislative, Judical, Monocative, Mediacative)
   
   - Current Advisory:
-    - Parliment
+    - Parliament
     - Mediatorium
     - Executive
   - Fully Functional:
     - (None)
 
 Measure 1: 
-- Union is still organizing, everyone who is part of the union has clear communications with eachother.
+- The union is still organizing, everyone who is part of the union has clear communications with each other.
 - Anyone appointed to a role in measure 0 can change this constitution. Any member of the union can propose changes.
 - Measure 0 is complete.
 
@@ -113,14 +113,14 @@ https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
 ## Right to Knowledge
 
 Section 1:
-Every person has the right to access, preserve, and share human knowledge for educational, research, and civic purposes without economic barrier.
+Every person has the right to access, preserve, and share human knowledge for educational, research, and civic purposes without economic barriers.
 
 Section 2:
 Copyright protections shall not exceed 28 years from first publication.
 
 Section 3:
 Libraries, educational institutions, and civic organizations may preserve and provide access to published works for non-commercial educational purposes
-without restriction after initial copyright term expires.
+without restriction after the initial copyright term expires.
 
 Section 4:
 No person shall be criminally prosecuted or civilly liable for preserving or sharing knowledge in a format designed for preservation, accessibility, and research, provided no commercial sale or rental occurs.
@@ -190,8 +190,8 @@ In the end, the average of the items
 #### First Election Month
 
 1. Members review a list of items
-2. Memebers vote to agree, disagree, or stay neutral on a subject
-3. All items are assignd a weight by the following equation
+2. Members vote to agree, disagree, or stay neutral on a subject
+3. All items are assigned a weight by the following equation
 
 
 ( V ) = Total number of voters
@@ -202,12 +202,12 @@ In the end, the average of the items
 
 [ W_i = \frac{A_i - D_i}{V} ]
 
-The end result should be between 0 and 1, if any result is under 0 then the weight is assinged a value of 0.
+The end result should be between 0 and 1, if any result is under 0 then the weight is assigned a value of 0.
 
 4. Average of all weights for each candidate is calculated.
 
 aW_i = The sum of all weight values of each opinion proposed by each candidate.
-nW_i = Amount of opinions propsed
+nW_i = Amount of opinions proposed
 
 [ aW_i / nW_i]
 
@@ -216,22 +216,22 @@ nW_i = Amount of opinions propsed
 
 Second Election Month is to happen 1 year later.
 
-1. Members are only allowed to vote for the candidates whos ideas they supported.
-2. Same procedure follows as the first election month, only this time they are voting weather each idea was completed by each candidate.
+1. Members are only allowed to vote for the candidates whose ideas they supported.
+2. Same procedure follows as the first election month, only this time they are voting whether each idea was completed by each candidate.
 3. Same idea is voted on, but for different candidates and how much they completed.
-4. Any candidate reciving a score below 3 is prohibited from rerunning.
-  - Candidates are allowed to challenge this in the Judical
+4. Any candidate receiving a score below 3 is prohibited from rerunning.
+  - Candidates are allowed to challenge this in the Judicial
   - This ban is only for 4 years.
 
 ## Single Transferable Vote (STV)
 
 A form of ranked elections
-Each member ranks all candiate from first to last.
-Each candiate with or above the panel size divided by the number of seats is automatically elected.
-The remaining surplus of votes is reallocated to the rest of the candiates based on each voters next rank preference.
-The candiate with the lowest votes will have their votes reallocated to the rest of the candiates based on each voters next rank preference.
+Each member ranks all candidates from first to last.
+Each candidate with or above the panel size divided by the number of seats is automatically elected.
+The remaining surplus of votes is reallocated to the rest of the candidates based on each voter's next rank preference.
+The candidate with the lowest votes will have their votes reallocated to the rest of the candidates based on each voter's next rank preference.
 
-If the remaining amount of candiates is equal to the panel size then the remaining candiates are elected to the panel.
+If the remaining number of candidates is equal to the panel size then the remaining candidates are elected to the panel.
 If the panel is full then vote reallocation is ended.
 
 ```mermaid
@@ -315,11 +315,11 @@ There will be two seats in the presidential office
 
 - Executive
 - Vice Executive
-  Executive and Vice executive have the same amount of power.
+  Executive and Vice executives have the same amount of power.
 
 TEMPORARY MEASURE: Presidential office is absolute, anything can be done to uphold this constitution.
 
-If any office is empty, then the Presidental office outmatically takes control of that office until its requirements can be met.
+If any office is empty, then the Presidential office automatically takes control of that office until its requirements can be met.
 
 ##### Membership
 
@@ -329,7 +329,7 @@ If any office is empty, then the Presidental office outmatically takes control o
 
 ---
 
-Handles diplomacy with other groups of similar size or bigger groups that the union is closely working with. While the respondsibilities are similar to the cooperation office, the Foreign Affairs offices deals with external situations where the cooperation office doesn't have authority over. (For example, a large deal to publically support and tightly work with a another group).
+Handles diplomacy with other groups of similar size or bigger groups that the union is closely working with. While the responsibilities are similar to the cooperation office, the Foreign Affairs offices deal with external situations where the cooperation office doesn't have authority over. (For example, a large deal to publicly support and tightly work with another group).
 
 ##### Membership
 
@@ -339,29 +339,29 @@ Handles diplomacy with other groups of similar size or bigger groups that the un
 
 ---
 
-Respondsible for development and testing of union tools.
+Responsible for development and testing of union tools.
 
-This office focuses on intranational affairs, especially on infrastructure and food supply.
+This office focuses on international affairs, especially on infrastructure and food supply.
 
 ##### Membership
 
-- Developer proficent in JS or C/C++ and git
+- Developer proficient in JS or C/C++ and git
 
 #### Economy Office
 
 ---
 
-Respondsible for overview of finiancial situation of the union and finical advise to members.
+Responsible for overview of the financial situation of the union and financial advice to members.
 
 ##### Membership
 
-- Currently have taken or taking finanical classes.
+- Currently have taken or are taking financial classes.
 
 #### Defense Office
 
 ---
 
-This office is responsible for the union's defense capabilities and self defense adivce.
+This office is responsible for the union's defense capabilities and self defense advice.
 
 ##### Membership
 
@@ -371,12 +371,12 @@ This office is responsible for the union's defense capabilities and self defense
 
 ---
 
-This office regulates the executive’s relationship with the monecative, which is the finance-
+This office regulates the executive’s relationship with the noncreative, which is the finance-
 overseeing state power described in subsection 7.4.
 
 ##### Membership
 
-- Part of the Penecium in the Monocative branch or Currently have taken or taking finanical classes along with communications.
+- Part of the Penecium in the Monocative branch or Currently have taken or are taking financial classes along with communications.
 
 #### Judicial Office:
 
@@ -385,14 +385,14 @@ overseeing state power described in subsection 7.4.
 This office regulates the executive’s relationship with the jurisdiction.
 
 
-If any part of the executive is to be invovled with the judicial branch, then it must also communicate through the Judical Office.
+If any part of the executive is to be involved with the judicial branch, then it must also communicate through the Judicial Office.
 
 
-The Judicial office must also answer to the custodium to execute any executive actions within the union. It should not execute actions outside the union unless permitted by the Judical or the group/individual requesting support.
+The Judicial office must also answer to the custodium to execute any executive actions within the union. It should not execute actions outside the union unless permitted by the Judicial or the group/individual requesting support.
 
 ##### Membership
 
-- Must have atleast contributed to a Trisophic Union document.
+- Must have at least contributed to a Trisophic Union document.
 - Clear understanding of Trigonocracy
 - Understanding of Technocracy
 
@@ -414,7 +414,7 @@ universities, which, in turn, decide upon the educational basis for the scientif
 To include ethical considerations in the political endeavor, this office represents philosophical
 and ethical points of view.
 
-Can override any actions or decisions that are demmed unethical. As a consequence, the actions are to be challenged in the Judical Branch.
+Can override any actions or decisions that are deemed unethical. As a consequence, the actions are to be challenged in the Judicial Branch.
 
 Must also make note and use data from the Mediacative Branch.
 
@@ -450,7 +450,7 @@ that the political endeavor does not neglect nature.
 
 ##### Membership
 
-- Only enviormentalists are allowed.
+- Only environmentalists are allowed.
 
 #### Cooperation Office
 
@@ -464,7 +464,7 @@ Membership is split into 2 categories, external and internal.
 
 **Internal**
 
-- Diplomiatic expert, or currently studing communications.
+- Diplomatic expert, or currently studying communications.
 
 **External**
 
@@ -497,14 +497,14 @@ As an important aspect of the security of survival is to expand into space, this
 
 ## Legislative
 
-There wil be three chaimbers within the legislative strucutre
-An item can be proposed to the legislative by an member of the union, automatically it should go into one of three congresses based on its requirements.
+There will be three chambers within the legislative structure
+An item can be proposed to the legislative by a member of the union, automatically it should go into one of three congresses based on its requirements.
 
-- Minor Congress (Parliment & Council)
-  - Small item, requring minimal attention
-- Main Congress (Parliment, Council, & Lobbyists)
+- Minor Congress (Parliament & Council)
+  - Small item, requiring minimal attention
+- Main Congress (Parliament, Council, & Lobbyists)
   - Default list every item will go to.
-- Major Congress (Parliment, Council, Lobbyists, and Pecunium).
+- Major Congress (Parliament, Council, Lobbyists, and Pecunium).
   - Deals with budget, or concerns the entire union
 
 Each person with a position in the Legislative is allowed to view each item at any time.
@@ -522,7 +522,7 @@ Each person with voting power can approve or reject an item at anytime, their vo
 #### Parliament
 
 The Parliament will be composed of 8 members at the maximum chosen by election via the Subject Election Principal.
-The Parliment is the main Legislative body of the Union, and forms in opposition of the executive.
+The Parliament is the main Legislative body of the Union, and forms in opposition of the executive.
 
 #### Council
 
@@ -545,7 +545,7 @@ The Technocracy Lobby may only consist of 4 Technocrats. They have no voting pow
 
 ## Judicial
 
-The Judical stays mostly the to the US consitution, with some additions.
+The Judiciary stays mostly to the US constitution, with some additions.
 
 ### Structure
 
@@ -553,11 +553,11 @@ The Judical stays mostly the to the US consitution, with some additions.
 
 Processes and judges individuals.
 
-Each Judical Members votes 2/3rds to appoint a new judge.
+Each Judicial Member votes 2/3rds to appoint a new judge.
 
 Each member must choose their own successor if they choose to leave.
 
-Judical Board size limted to 3 people.
+Judicial Board size limited to 3 people.
 
 #### Judaical Council
 
@@ -565,9 +565,9 @@ Handles more complex cases
 
 #### Custodium
 
-Interprets and enforeces the constitution with logic. Indipendant of any political ideology.
+Interprets and enforces the constitution with logic. Independent of any political ideology.
 
-Indipendant of all branches.
+Independent of all branches.
 
 ##### Duties
 
@@ -610,7 +610,7 @@ Part of the custodium will consist of Project Algocracy.
 
 ### Rules
 
-These rules apply to the mediatorium.
+These rules apply to the Mediatorium.
 
 #### Prohibition of war propaganda. 
 In 2001, Anne Morelli systematized the essential war propaganda techniques of Arthur
@@ -699,25 +699,25 @@ Chosen by election via the Subject Election Principal, it can't consist of more 
 - Request reports from media delegation
 - Initiate investigations into media misconduct
 - Issue public communications guidelines
-- Any channel or instituion falling under direct union control shall be part of the Mediatorium. This Power can be delegated to the Cooperation Office, but ultimately remainds under Mediatorium Control.
+- Any channel or institution falling under direct union control shall be part of the Mediatorium. This Power can be delegated to the Cooperation Office, but ultimately remains under Mediatorium Control.
 
-- All union communications must go through the mediatorium first, this can be defined by the mediatorium in any way needed to conform to Trigonocracy.
+- All union communications must go through the Mediatorium first, this can be defined by the Mediatorium in any way needed to conform to Trigonocracy.
 
 ##### Duties
 These Duties are meant to be delegated to the cooperation office
 
 - Must create reports on internal union operations and politics.
   - When an item is introduced or passed, the Mediatorium must create a report
-  - This can be delegated to the cooperation office if requried.
+  - This can be delegated to the cooperation office if required.
   - Must also keep track of union meetings in the legislative
     - For clarification its only tracking
     - The custodium does the enforcing 
 - Follow the "Prohibition of war propaganda" rules
-- Any channel or instituion under direct union control must follow the "Prohibition of war propaganda" rules. Failure to do so will result in intervention by the custodium.
+- Any channel or institution under direct union control must follow the "Prohibition of war propaganda" rules. Failure to do so will result in intervention by the custodium.
 
 ##### Rules
 1. Anonymous Actions
-All actions taken by the penicium are anonmimized to avoid deliberate targeting of an individual for financial gain, political gain, and corruption prevention.
+All actions taken by the Penicium are anonymized to avoid deliberate targeting of an individual for financial gain, political gain, and corruption prevention.
 2. Everything must comply with "Prohibition of war propaganda" rules. Else, the custodium is allowed to intervene and remove any member from office if they are to be violating the rules.
 
 #### Media Delegation
@@ -762,31 +762,31 @@ Consists of members that control any portion of media (Union or non-Union contro
 
 <!-- Extra note from cyborgnetical--->
 
-<!-- Future plans to intergrate project Cybersyn into this--->
+<!-- Future plans to integrate project Cybersyn into this--->
 
-Similarly to the mediacative, the monecative constitutes a novel power of state. It represents the basis for institutions, overseeing the finances of the state, independent from the legislative and executive. However, the trigonocratic principle constitutes a central aspect of its architecture. Therefore, a structure resembling that of the mediacative is to be achieved, including democratic and meritocratic requirements of legitimization.
+Similarly to the mediacative, the Monecative constitutes a novel power of state. It represents the basis for institutions, overseeing the finances of the state, independent from the legislative and executive. However, the Trigonocratic principle constitutes a central aspect of its architecture. Therefore, a structure resembling that of the mediacative is to be achieved, including democratic and meritocratic requirements of legitimization.
 
 ### Areas of Accountability
 
-In general, all powers and accountabilities of the central banks are to be included in the new power of state. In addition, several competencies of the legislative and the executive are to be subtracted and added to the monecative. This is due to the requirement that the decision-making process concerning financial issues must prevent lavishness among the parliamentarians, who are eager to improve their position against their own stakeholders, i.e. the people.
+In general, all powers and accountabilities of the central banks are to be included in the new power of state. In addition, several competencies of the legislative and the executive are to be subtracted and added to the Monecative. This is due to the requirement that the decision-making process concerning financial issues must prevent lavishness among the parliamentarians, who are eager to improve their position against their own stakeholders, i.e. the people.
 
-Therefore, additionally to the supervision of banks, the monecative must be authorized to supervise the financial expenses of the state in general, overseeing the state's budget, i.e. handling of tax income, especially the adequacy of tax law. Furthermore, the monecative is responsible for the prevention and detection of corruption in politics in particular.
+Therefore, additionally to the supervision of banks, the Monecative must be authorized to supervise the financial expenses of the state in general, overseeing the state's budget, i.e. handling of tax income, especially the adequacy of tax law. Furthermore, the Monecative is responsible for the prevention and detection of corruption in politics in particular.
 
-Hence, the monecative discusses the financial decision-making with the legislative and the executive. In accordance with the federalistic structure, this overseeing authorization must be adjusted to the corresponding state level.
+Hence, the Monecative discusses financial decision-making with the legislative and the executive. In accordance with the federalistic structure, this overseeing authorization must be adjusted to the corresponding state level.
 
-Further determinations must be made in consideration of the corresponding cultural values and norms, the customary laws and the people's expectations. In each case, the institutional implementation of the monecative is to be called the monetariate. The custodium (see section on Judicial) guarantees the compliance towards the CAT principle.
+Further determinations must be made in consideration of the corresponding cultural values and norms, the customary laws and the people's expectations. In each case, the institutional implementation of the Monecative is to be called the Monetariate. The custodium (see section on Judicial) guarantees the compliance towards the CAT principle.
 
 ### Structure
 
 #### Pecunium
 
-The Pecunium constitutes the democratically legitimized chamber of the monetariate. Its primary duties are to represent citizens' financial interests, to set public-facing financial policy goals, and to provide democratic oversight of monetary and fiscal decisions.
+The Pecunium constitutes the democratically legitimized chamber of the Monetariate. Its primary duties are to represent citizens' financial interests, to set public-facing financial policy goals, and to provide democratic oversight of monetary and fiscal decisions.
 
-Members of the pecunium are called "Pecunians"
+Members of the Pecunium are called "Pecunians"
 
 ##### Election
 
-- Members (pecunians) are elected by voters using the Subject Election Principal (SEP).
+- Members (Pecunians) are elected by voters using the Subject Election Principal (SEP).
 
 ##### Membership
 
@@ -806,36 +806,36 @@ Members of the pecunium are called "Pecunians"
 - Major budgets such as a yearly budget concerning the entire union must still be discussed with the Major Congress.
 
 ***Corruption Report***
-- Can ignitiate an investigation on Union Politicians if corrution or legal breaches are suspected
-- If needed, the custodium can be called at any time to support investigation.
-- If a corruption report is done to a member(s) of the penuncum, then only the custodium is allowed to take actions.
+- Can initiate an investigation on Union Politicians if corruption or legal breaches are suspected
+- If needed, the custodium can be called at any time to support the investigation.
+- If a corruption report is done to a member(s) of the Penuncum, then only the custodium is allowed to take actions.
 
 ##### Rules
 
-1. Anonimous Actions
-All actions taken by the penicium are anonmimized to avoid deliberate targeting of an individual for financial or political gain, along with prevetning corruption.
-2. Shared Respondsibility
-As a counter balence to "Anonimous Actions", all pecunians are respondsible for each others actions, both positive and negative. In essecanse, this means that everyone operates as the same entity to talk to.
+1. Anonymous Actions
+All actions taken by the Penicium are anonymized to avoid deliberate targeting of an individual for financial or political gain, along with preventing corruption.
+2. Shared Responsibility
+As a counter balance to "Anonymous Actions", all Pecunians are responsible for each other's actions, both positive and negative. In essence, this means that everyone operates as the same entity to talk to.
 3. Complete Neutrality
-To become a candidate of the Pecunium, you must have neutral stance towards politics.
+To become a candidate of the Pecunium, you must have a neutral stance towards politics.
 (Neutral can be defined, as not benefiting a particular group or individual, but to take in account all views and data and take the smartest action. This means call  - Aerarians are selected according to the SEP among qualified financial professionals, prioritizing candidates with supervisory or central-banking experience.
   - Panel sizes mirror the Pecunium with nAerarium = nPecunium - 1 (or as otherwise set by NLSP rules).
-ing out when something is clearly stupid or mean't to benefit a group, even if unintentional. You can still have your own views and affliations but your actiosn must be neutral)
+ing out when something is clearly stupid or meant to benefit a group, even if unintentional. You can still have your own views and affiliations but your actions must be neutral)
   - The Pecunium shall not perform day-to-day management of banks or execute monetary policy instruments reserved to the aerarium.
   - Decisions requiring technical central-banking operations are made in coordination with the aerarium and documented in public reports.
 
 #### Aerarium
 
-The Aerarium is the technocratic chamber of the monetariate, composed of members (aerarians) with banking, monetary policy, and financial supervision experience. Its role is operational stewardship of monetary instruments, bank supervision, and technical fiscal advice.
+The Aerarium is the technocratic chamber of the Monetariate, composed of members (aerarians) with banking, monetary policy, and financial supervision experience. Its role is operational stewardship of monetary instruments, bank supervision, and technical fiscal advice.
 
 ##### Elections
 
 - Aerarians are chosen via the Subject Election Principal.
 - The "voters" are those institutions or individuals who hold capital (money) and want to work with the Union.
-- The "candidates" are proposed by the same capital holders, candidates get to choose what polices they support. 
+- The "candidates" are proposed by the same capital holders, candidates get to choose what policies they support. 
 
 ***Candidate Requirements***
-- Must have atleast taken a financial class and have presentable proof OR demonstrate enough knowledge in economics and/or financing.
+- Must have at least taken a financial class and have presentable proof OR demonstrate enough knowledge in economics and/or financing.
 
 ##### Membership
 
@@ -857,9 +857,9 @@ There will also be a time limit for each goal, if each goal is not met then the 
 
 ## Primary Goals: 
 
-- Complete this constituion
+- Complete this constitution
   - Time Allocated
-- Prove Trigonocracy works with this constituon
+- Prove Trigonocracy works with this constitution
   - Time Allocated: 
   
 ## Secondary Goals:
@@ -887,7 +887,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDPWPxB79YZNt6k4aY7YWx3kvJdo7zL8G9+qpuyI3I4
 
 # Comments
 
-Anything under the "Comments" section does not apply to the constitution. It is only here to organize thoughs
+Anything under the "Comments" section does not apply to the constitution. It is only here to organize thoughts
 
 Pasted a lot from Trigonocracy - Cyborgnetical
 
