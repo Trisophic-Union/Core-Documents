@@ -4,6 +4,9 @@ Third Constitution "Democratic Experiment"
 
 ---
 
+
+
+
 # Key Documents Used
 There documents are ones being used for the creation of the constituion. In order to expand and interpret the constitution, there should be a reference to these documents.
 
@@ -15,17 +18,35 @@ Project Cybersyn (Wikipedia Article) - https://en.wikipedia.org/wiki/Project_Cyb
 
 UN Univeral Declaration of Human Rights - https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
 
+Constitution of the United States - https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm
+
+
+
 # Notes
 
 This constitution only applies within the Trisophic Union.
+
 We are working with a Trigonocracy Model running at the Municipal level (with exceptions) with Supranational powers outlined in the document.
 
-## Programs
+Anyone can modify it, its not like its completely offical yet.
 
-### Extra Notes
+
+I need help in goals lol - Cyborgnetical
+
+
+
+
+Lets improve upon the founding fathers work
+
+
+
+
+# Programs
+
+## Extra Notes
 Development shall be delegated to both executive branch and custodium (partially) along with being monitored by the mediacative. Custodium are mandated to intervene if executive is found to be using programs inadecuetly.
 
-### Project Cybersyn
+## Project Cybersyn
 A revival of project Cybersyn is being worked on, albeit its going to be a long time before its operational. Here are the main compotents
 - Operations Interface (Live data display)
 - Cybernet (Network of computers collecting and processing data)
@@ -34,7 +55,7 @@ A revival of project Cybersyn is being worked on, albeit its going to be a long 
 - Cyberfolk (Anonimous Rating and alert system for citizens)
 
 
-### Project Algocracy
+## Project Algocracy
 Along side our own Project Algocracy is being created, (Technical Political Simulator).
 
 I admit in its current state its a mess. 
@@ -44,10 +65,42 @@ Upon completion it shall aid in the custodium to simulate the constituion as a l
 It shall also serve as to handle administrative tasks of the Union when possible to prevent as much bearucracy as possible.
 
 
-## Measures
-TEMPORARY MEASURE:
-Right, this is to be removed when its no longer required.
-Cyborgnetical (The Exectuve), has complete control. He is respondsible to appoint each person to each branch. Once each branch is functional, he must give up his absolute power and take role as "The Executive"
+
+
+# Measures
+
+Measures are temporary and consist of three parts:
+
+- The situation for the measure
+- The measure itself 
+- Conditions to remove the measure.
+
+The situation must be resolved to remove the measure along with any additonal conditions required.
+
+Measure 0:
+- The Union doesn't have enough members to function properly, and is still organizing
+- Cyborgnetical (The Exectuve), has complete control over the union, it his duty to appoint people to roles to get each branch functional.
+- Conditions:
+  - Power is changed to an advisory from spesific internal structures once they are working. (Mediatorium, Media Delegation, Penecium, etc)
+  - Advisory role is completely removed once the specified branch is fully functional. (Executive, Legislative, Judical, Monocative, Mediacative)
+  
+  - Current Advisory:
+    - Parliment
+    - Mediatorium
+    - Executive
+  - Fully Functional:
+    - (None)
+
+Measure 1: 
+- Union is still organizing, everyone who is part of the union has clear communications with eachother.
+- Anyone appointed to a role in measure 0 can change this constitution. Any member of the union can propose changes.
+- Measure 0 is complete.
+
+
+
+
+
+
 
 # Rights
 
@@ -75,6 +128,13 @@ No person shall be criminally prosecuted or civilly liable for preserving or sha
 Section 5:
 Congress shall have power to enforce this article by appropriate legislation.
 
+
+
+
+
+
+
+
 # Rules
 
 1. Fundamental Safeguards Against Autocracy:
@@ -100,6 +160,14 @@ Congress shall have power to enforce this article by appropriate legislation.
    - The scientific method is followed
    - No branch extends control over other branches
 
+   
+   
+   
+   
+   
+   
+   
+   
 # Definitions
 
 ## Subject Election Principal
@@ -201,6 +269,17 @@ A person who applies technocracy in a governing structure.
 ## Union
 
 The Trisophic Union
+
+
+
+
+
+
+
+
+
+
+
 
 # Branches
 
@@ -402,6 +481,20 @@ As an important aspect of the security of survival is to expand into space, this
 - Qualified for both Home and Education Office.
 - Clear interest in Astrophysics or Engineering
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Legislative
 
 There wil be three chaimbers within the legislative strucutre
@@ -438,6 +531,17 @@ The Council will be composed of 6 members at maximum and chosen by Single Transf
 #### The Technocracy Lobby
 
 The Technocracy Lobby may only consist of 4 Technocrats. They have no voting power when it comes elections.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Judicial
 
@@ -582,6 +686,8 @@ Albeit the institutional power of the media can mobilize large numbers of contin
 
 ### Structure
 
+
+
 #### Mediatorium
 
 #### Elections
@@ -594,6 +700,8 @@ Chosen by election via the Subject Election Principal, it can't consist of more 
 - Initiate investigations into media misconduct
 - Issue public communications guidelines
 - Any channel or instituion falling under direct union control shall be part of the Mediatorium. This Power can be delegated to the Cooperation Office, but ultimately remainds under Mediatorium Control.
+
+- All union communications must go through the mediatorium first, this can be defined by the mediatorium in any way needed to conform to Trigonocracy.
 
 ##### Duties
 These Duties are meant to be delegated to the cooperation office
@@ -608,9 +716,9 @@ These Duties are meant to be delegated to the cooperation office
 - Any channel or instituion under direct union control must follow the "Prohibition of war propaganda" rules. Failure to do so will result in intervention by the custodium.
 
 ##### Rules
-1. Anonimous Actions
+1. Anonymous Actions
 All actions taken by the penicium are anonmimized to avoid deliberate targeting of an individual for financial gain, political gain, and corruption prevention.
-2. Everything must comply with "Prohibition of war propaganda" rules. Else, the custodium is allowed to intervene and remove any from office if they are to be violating the rules.
+2. Everything must comply with "Prohibition of war propaganda" rules. Else, the custodium is allowed to intervene and remove any member from office if they are to be violating the rules.
 
 #### Media Delegation
 
@@ -684,6 +792,8 @@ Members of the pecunium are called "Pecunians"
 
 - Limited to 5 members only
 
+
+
 ##### Powers
 
 ***Request Review***
@@ -737,11 +847,49 @@ The Aerarium is the technocratic chamber of the monetariate, composed of members
 3. Reports must be public, non-sensitive, and clear.
 4. Where policy choices have distributive or democratic implications, the Aerarium negotiates with the Pecunium; final democratic mandates rest with the Pecunium while technical execution remains with the Aerarium.
 5. Upon completion of project CyberNet (Part of Project Cybersyn) all banks represented by each Aerarium member must register to be part of cybernet. (This rule current is to be defined later)
+
+
+
+# Goals
+
+All goals must be completed before continuing towards the next constituon. 
+There will also be a time limit for each goal, if each goal is not met then the Legislative will meet to discuss what to do with these goals. ( Lower Requirements or Allocate more time)
+
+## Primary Goals: 
+
+- Complete this constituion
+  - Time Allocated
+- Prove Trigonocracy works with this constituon
+  - Time Allocated: 
+  
+## Secondary Goals:
+
+- Expand Member count to 50 members. 
+  - Time Allocated: TBD
+
+- Infrastructure Development:
+  - Expand Project Algocracy
+    - Possibly split it into parts
+  - Expand Project Cybersyn
+    - Create basic programs to show how it would work
+    - Only 2 parts of project Cybersyn need to be started atleast (CHECO, Cyberstride, Interface, etc.)
+  - Time Allocated: TBD
+
 # Signatures
+
+Cyborgnetical (Signed)
+
+Public RSA key
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDPWPxB79YZNt6k4aY7YWx3kvJdo7zL8G9+qpuyI3I4k5TpRLswSd2uxzJab2R21mLZPxmjn7SREJt2DrrzR4syolnoyQE5201MjkZtlPhPAeixeY61M6JebFVmNq+b0eAHwFPACV0ys+t86uXUMoCER4AOf4t5x5/P7mJkPVi2Dr1MrOSAfIi0nma50fQy73FhxQsxZfm/4tXdPwPMDOM0oVy9XwGokSRagfBNXXUzpZhEsNDNwjUQW2RsHV2ZMb0XmLuw/UYKIpU/dATKOdCjLZiLnmOBC3j4qhZ5gZESYGqZu9qqYi431GQ538SPs8ZZ4lnQiygrqZ1XwcolSCMgAoNb2iaUY6BGOa46y7JR9/uPOQTySLwYubNqiOt2OtLP3yDdiJsiiF56q5wvxoSTg3+ZjzlQJBWRAVRn7ya56IwEtBYaaxnAqfS8NEcU+lwUA43Cwf53h3MxlJN9Qp3hndUQKMGGQHv7FZ5acxktKo9gvGDFq83Yw7yO4ka4AY6eZN4ssSUqlkWIM7cBIRu+Jf7G3nzY2e4d3XV4Leanzax8PqcX9DNvQqoIYKzG72KhKMRss1YUgD+oiLJ0vxin01WgWfwbnZL6csteCGqDvwepjH/rSUc9WXjSlueKnGmwVpMN77dh++ekMHpFHAwBtak/ZtecOchTqfcwId8TPw== cyborgnetical@gmail.com
+
+
+
 
 # Comments
 
 Anything under the "Comments" section does not apply to the constitution. It is only here to organize thoughs
 
 Pasted a lot from Trigonocracy - Cyborgnetical
-Signatures more than likely will be RSA keys - Cyborgnetical
+
+
+Signatures will be RSA keys - Cyborgnetical
