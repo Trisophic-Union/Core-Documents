@@ -21,3 +21,17 @@ or verified
 ```
 cat Constitution.md | ssh-keygen -Y check-novalidate -n file -f ~/.ssh/id_rsa.pub -s Constitution.sig
 ```
+
+
+
+
+Additional Notes:
+
+
+If you get errors when signing you might have to execute the following commands:
+
+```
+ssh-agent -c | source
+
+ssh-add ~/.ssh/id_rsa
+```
